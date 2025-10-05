@@ -1,4 +1,4 @@
-# Hi, I'm Khanh 👋
+# Hi, I'm Khanh 🚀
 
 **A curious and passionate programmer ready to embrace new challenges**
 
@@ -18,13 +18,9 @@ Hands-on implementation of unit and integration testing for Java applications
 
 ---
 
-## 📊 GitHub Stats
-
-![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhLDQ&show_icons=true&theme=radical)
-
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/le-dinh-quoc-khanh-807bb7365/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/le-dinh-quoc-khanh-807bb7365/)
 
 ---
 
