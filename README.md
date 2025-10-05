@@ -10,7 +10,7 @@ Secure RESTful APIs built for user management, email verification, and password 
 
 ### [Spring Data JPA Fundamentals](https://github.com/KhanhLDQ/spring-data-jpa)
 Hands-on implementation of Spring Data JPA features
-- **Focus:** Relationships, Inheritance Mapping, Derived & Modifying Queries, Paging & Sorting, Transaction & Concurrency, Projections & Stored Procedures, Isolation Rules
+- **Tech:** Relationships, Inheritance Mapping, Derived & Modifying Queries, Paging & Sorting, Transaction & Concurrency, Projections & Stored Procedures, Isolation Rules
 
 ### [Java Testing](https://github.com/KhanhLDQ/junit-integration-tests)
 Hands-on implementation of unit and integration testing for Java applications
