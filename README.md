@@ -4,7 +4,7 @@
 
 ## 🔬 The Lab
 
-### [Spring AI](https://github.com/KhanhLDQ/spring-AI)
+### [Spring AI](https://github.com/KhanhLDQ/spring-AI) | [MCP Server](https://github.com/KhanhLDQ/mcp-server)
 Comprehensive Spring AI implementation covering RAG, MCP, AI Testing, Observability, Speech & Image Generation
 - **Tech:** Spring AI, Chat Memory, RAG, Tool Calling, MCP, Evaluators, Grafana, Prometheus, Docker
 
